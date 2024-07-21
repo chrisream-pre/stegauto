@@ -1,2 +1,2 @@
 # stegauto
-Steganography in PNG using aes256 and automatic key detection
+Python steganography in PNG using aes256 and automatic key detection.
