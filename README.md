@@ -1,5 +1,5 @@
 # stegauto
-Python steganography in PNG using aes256 and automatic key detection.
+Python steganography using PNG with aes256 and automatic key detection.
 
 > stegauto.py embed Input.PNG password Output.PNG
 
